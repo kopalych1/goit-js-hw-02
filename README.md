@@ -1,3 +1,3 @@
-# Домашнє завдання Тема 1. Змінні та типи. Основи функцій
+# Домашнє завдання Тема 2. Розгалуження та цикли
 
-https://kopalych1.github.io/goit-js-hw-01/
+https://kopalych1.github.io/goit-js-hw-02/
